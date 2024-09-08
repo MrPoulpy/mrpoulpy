@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on **LibreWatch**, a blood glucose reading app for Apple Watch, for people fighting diabetes ([available here](https://apps.apple.com/fr/app/librewatch/id1609222678))
 - 👨‍💻 All of my projects are available [right there](https://cv.labaste.fr)
+- 💼 You can find my resume [right here](https://read.cv/denispoulpy)
 
 #### About
 
