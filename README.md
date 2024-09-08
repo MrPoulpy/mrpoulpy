@@ -57,7 +57,7 @@ What is working as a lead developer? This.
 ![Docker](https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=Docker&color=222522&labelColor=2496ED&logoColor=fff)
 ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&style=flat-square&logo=Firebase&color=222522&labelColor=DD2C00&logoColor=fff)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mrpoulpy&show_icons=true&locale=en&layout=compact)
+[//]: # (![Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs?username=mrpoulpy&show_icons=true&locale=en&layout=compact&#41;)
 
 ### Experiences
 
