@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on **GlucoWatch**, a blood glucose reading app for Apple Watch, for people fighting diabetes ([available here](https://apps.apple.com/fr/app/librewatch/id1609222678))
 - 👨‍💻 All of my projects are available [right there](https://cv.labaste.fr)
-- 💼 You can find my resume [right here](https://read.cv/denispoulpy)
 
 #### About
 
@@ -18,11 +17,7 @@ Very attentive to security and data processing, I've worked on a number of Medic
 
 I have a degree in multimedia project management, and as such I also oversee the smooth running of projects, from before-contract estimates to GitLab/Jira ticket tracking.
 
-Currently lead developer in a Bordeaux-based digital agency, I help and guide my colleagues in their developments. I'm also very involved in didactics, and like to share my knowledge with my colleagues, or the students I've had over the years as a teacher in a school for web developers, or at the Bordeaux IUT where I also taught.
-
-What is working as a lead developer? This.
-
-![Fire](https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966)
+Currently working @Green-Got. I'm also very involved in didactics, and like to share my knowledge with the students I've had over the years as a teacher in a school for web developers, or at the Bordeaux IUT where I also taught.
 </details>
 
 ### Connect with me
